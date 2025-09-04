@@ -1,40 +1,103 @@
-# Saudações High Tech!
+# 🌍 README em dois idiomas | Bilingual README  
+
+[🇧🇷 Versão em Português](#-versão-em-português) | [🌎 English Version](#-english-version)  
+
+---
+
+## 🇧🇷 Versão em Português  
+
+# 🚀 Saudações High Tech!  
+
+![Visitors](https://komarev.com/ghpvc/?username=LEOTECH47&label=Visualizações&color=0e75b6&style=flat)  
+![Status](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=false&vCenter=true&width=500&lines=Construindo+Soluções+High+Tech+⚡;Sempre+Aprendendo+🚀)
 
 ## 👨‍💻 Sobre mim
 
- Me chamo Leonardo silva e sou Analista e Desenvolvedor de Sistemas, com foco no desenvolvimento de aplicações web modernas. Tenho experiência no ciclo completo de desenvolvimento, desde a análise de requisitos até o deploy em produção, sempre aplicando boas práticas de arquitetura, performance e segurança.
+Me chamo **Leonardo Silva** e sou **Analista e Desenvolvedor de Sistemas**, especializado no desenvolvimento de aplicações web modernas e escaláveis.  
+Tenho experiência em **todo o ciclo de desenvolvimento de software**, desde a análise de requisitos até o deploy em produção, aplicando sempre **boas práticas de arquitetura, segurança, performance e qualidade de código**.  
 
-🔧 Tecnologias e Ferramentas
+---
 
-Front-end: HTML5, CSS3, JavaScript (ES6+), React.js, JSX, TailwindCSS
+## 🔧 Tecnologias e Ferramentas  
 
-Back-end: Node.js, Express.js, APIs REST e GraphQL, autenticação JWT/OAuth
+(... mesmas badges que já criamos ...)  
 
-Banco de Dados: MySQL, PostgreSQL, MongoDB
+---
 
-DevOps & Cloud: Git/GitHub, Docker, CI/CD, Vercel
+## 📖 Estudando atualmente  
 
-Outros: testes automatizados, modelagem de dados, documentação técnica
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-📌 O que busco
+---
 
-Contribuir para projetos que exijam inovação, escalabilidade e segurança, além de colaborar em comunidades open source e estar sempre em evolução contínua no aprendizado de novas tecnologias.
+## 📊 Minhas Contribuições no GitHub  
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+🔥 **Streak de Contribuições**  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=LEOTECH47&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
+⚡ **Estatísticas Gerais**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LEOTECH47&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
+🛠️ **Linguagens Mais Usadas**  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEOTECH47&layout=compact&theme=tokyonight&hide_border=true)
 
-### 📖 Estudando atualmente:
+📈 **Gráfico de Atividade**  
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LEOTECH47&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+---
 
+## 🌎 Vamos Conectar?  
 
-### Minhas contribuições no GITHUB:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/leonardo-silva-tech1975)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LEOTECH47)  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=LEOTECH47&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+---
 
+## 🌎 English Version  
 
-### 💻 Conecte-se!
+# 🚀 High Tech Greetings!  
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/leonardo-silva-tech1975)            [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LEOTECH47)
+![Visitors](https://komarev.com/ghpvc/?username=LEOTECH47&label=Profile%20Views&color=0e75b6&style=flat)  
+![Status](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=false&vCenter=true&width=500&lines=Building+High+Tech+Solutions+⚡;Always+Learning+🚀)
 
+## 👨‍💻 About Me  
+
+My name is **Leonardo Silva** and I am a **Systems Analyst & Software Developer**, specialized in building modern and scalable web applications.  
+I have strong experience in the **full software development lifecycle**, from requirements analysis to production deployment, always applying **best practices in architecture, security, performance, and clean code**.  
+
+---
+
+## 🔧 Technologies & Tools  
+
+(... same badges as before ...)  
+
+---
+
+## 📖 Currently Learning  
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 📊 GitHub Contributions  
+
+🔥 **Contribution Streak**  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=LEOTECH47&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+⚡ **Overall GitHub Stats**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LEOTECH47&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+🛠️ **Most Used Languages**  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEOTECH47&layout=compact&theme=tokyonight&hide_border=true)
+
+📈 **Activity Graph**  
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LEOTECH47&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🌎 Let’s Connect!  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/leonardo-silva-tech1975)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LEOTECH47)  
