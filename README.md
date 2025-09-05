@@ -62,23 +62,23 @@ Tenho experiência em **todo o ciclo de desenvolvimento de software**, desde a a
 ## 📊 Minhas Contribuições no GitHub  
 
 🔥 **Streak de Contribuições**  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=LEOTECH47&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=LEOTECH4-PROJECTS&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ⚡ **Estatísticas Gerais**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LEOTECH47&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LEOTECH-PROJECTS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 🛠️ **Linguagens Mais Usadas**  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEOTECH47&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEOTECH-PROJECTS&layout=compact&theme=tokyonight&hide_border=true)
 
 📈 **Gráfico de Atividade**  
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LEOTECH47&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LEOTECH-PROJECTS&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ## 🌎 Vamos Conectar?  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/leonardo-silva-tech1975)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LEOTECH47)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LEOTECH-PROJECTS)  
 
 ---
 
@@ -140,20 +140,20 @@ I have strong experience in the **full software development lifecycle**, from re
 ## 📊 GitHub Contributions  
 
 🔥 **Contribution Streak**  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=LEOTECH47&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=LEOTECH-PROJECTS&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ⚡ **Overall GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LEOTECH47&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LEOTECH-PROJECTS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 🛠️ **Most Used Languages**  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEOTECH47&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEOTECH-PROJECTS&layout=compact&theme=tokyonight&hide_border=true)
 
 📈 **Activity Graph**  
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LEOTECH47&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LEOTECH-PROJECTS&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ## 🌎 Let’s Connect!  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/leonardo-silva-tech1975)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LEOTECH47)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LEOTECH-PROJECTS)  
