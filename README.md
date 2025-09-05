@@ -62,7 +62,7 @@ Tenho experiência em **todo o ciclo de desenvolvimento de software**, desde a a
 ## 📊 Minhas Contribuições no GitHub  
 
 🔥 **Streak de Contribuições**  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=LEOTECH4-PROJECTS&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=LEOTECH-PROJECTS&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ⚡ **Estatísticas Gerais**  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LEOTECH-PROJECTS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
