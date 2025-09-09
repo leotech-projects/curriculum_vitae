@@ -8,7 +8,7 @@
 
 # 🚀 Saudações High Tech!  
 
-![Visitors](https://komarev.com/ghpvc/?username=LEOTECH47&label=Visualizações&color=0e75b6&style=flat)  
+![Visitors](https://komarev.com/ghpvc/?username=LEOTECH-PROJECTS&label=Visualizações&color=0e75b6&style=flat)  
 ![Status](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=false&vCenter=true&width=500&lines=Construindo+Soluções+High+Tech+⚡;Sempre+Aprendendo+🚀)
 
 ## 👨‍💻 Sobre mim
@@ -86,7 +86,7 @@ Tenho experiência em **todo o ciclo de desenvolvimento de software**, desde a a
 
 # 🚀 High Tech Greetings!  
 
-![Visitors](https://komarev.com/ghpvc/?username=LEOTECH47&label=Profile%20Views&color=0e75b6&style=flat)  
+![Visitors](https://komarev.com/ghpvc/?username=LEOTECH-PROJECTS&label=Profile%20Views&color=0e75b6&style=flat)  
 ![Status](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=false&vCenter=true&width=500&lines=Building+High+Tech+Solutions+⚡;Always+Learning+🚀)
 
 ## 👨‍💻 About Me  
